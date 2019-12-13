@@ -1,5 +1,5 @@
 # Introdution
-In this project, I will predict the pattern of client’s annual spending on online shopping platform by using Linear Regression. Created a Training and Testing model to validate the result.
+In this project, I will predict the pattern of client’s annual spending on online shopping platform by using Linear Regression. I also Created a Training and Testing model to validate the result.
 
 The dataset used in this project is advertising.csv
 
